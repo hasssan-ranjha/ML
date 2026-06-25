@@ -19,7 +19,7 @@ A machine learning application that predicts whether a Titanic passenger would h
 ## ⚙️ Installation
 
 ```bash
-git clone [REPOSITORY_URL]
+git clone https://github.com/hasssan-ranjha/ML.git
 cd ML/titanic-survival-predictor
 pip install -r requirements.txt
 ```
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ## ▶️ Usage
 
 ```bash
-python [GUI_ENTRY_FILE].py
+python gui.py
 ```
 
 Enter the passenger details in the GUI (class, sex, age, fare, etc.) and click **Predict** to see the result.
@@ -38,4 +38,4 @@ MIT License
 
 ## 📬 Contact
 
-[AUTHOR_NAME] · [CONTACT_EMAIL]
+Hassan Zafar · hzranjha2000@gmail.com
